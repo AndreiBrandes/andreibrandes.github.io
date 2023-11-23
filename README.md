@@ -1,5 +1,3 @@
-# [Andrei Brandes]
-
 ## DevOps Engineer
 
 Welcome to my professional page! Here, you'll find information about my work, skills, and projects in DevOps engineering.
