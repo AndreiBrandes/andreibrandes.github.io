@@ -28,8 +28,8 @@ I am a passionate DevOps Engineer with a strong background in automating and opt
 
 ### Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/andreibrandes/)
-- **Email:** cirque-sleeper-0v@icloud.com
+- **[LinkedIn](https://www.linkedin.com/in/andreibrandes/)**
+- **[Github](https://github.com/andreibrandes)** 
 
 ---
 
