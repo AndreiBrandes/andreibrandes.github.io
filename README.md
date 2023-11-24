@@ -9,7 +9,8 @@ I am a passionate DevOps Engineer with a strong background in automating and opt
 ### Skills
 
 - **Cloud Platforms:** Azure, AWS
-- **Containerization:** Kubernetes 
+- **Containerization:** Kubernetes
+- **Package Management and Deployment:** Helm, [Helmfile](https://github.com/helmfile/helmfile/blob/main/USERS.md) 
 - **CI/CD:** Jenkins, Azure DevOps, ArgoCD
 - **Infrastructure as Code:** Terraform, Ansible
 - **Monitoring and Logging:** Prometheus, Grafana, ELK Stack
