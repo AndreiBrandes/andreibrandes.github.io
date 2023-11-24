@@ -22,8 +22,8 @@ I am a passionate DevOps Engineer with a strong background in automating and opt
 - **Technologies Used:** Elasticsearch, Logstash, Kibana, Kubernetes
 
 #### CI/CD Pipeline with Azure DevOps, Helm, and ArgoCD
-- **Description:** Constructed a CI/CD pipeline using Azure DevOps (AzDO) for code integration and deployment. Utilized Helm for package management and orchestrated deployments to a Kubernetes cluster through ArgoCD. This pipeline streamlined the deployment process, ensuring efficient and reliable application updates.
-- **Technologies Used:** Azure DevOps (AzDO), Helm, ArgoCD, Kubernetes
+- **Description:** Constructed a CI/CD pipeline using Azure DevOps for code integration and deployment. Utilized Helm for package management and orchestrated deployments to a Kubernetes cluster through ArgoCD. This pipeline streamlined the deployment process, ensuring efficient and reliable application updates.
+- **Technologies Used:** Azure DevOps, Helm, ArgoCD, Kubernetes
 
 
 ### Connect with Me
